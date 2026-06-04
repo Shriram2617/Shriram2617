@@ -36,13 +36,14 @@
 
 ## 🤝 Connect with Me
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://www.linkedin.com/in/shriram-j-65a785321/" />
+<a href="https://www.linkedin.com/in/shriram-j-65a785321/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://leetcode.com/u/Shriram_2617/" width="48" height="48"/>
+<a href="https://leetcode.com/u/Shriram_2617/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48" height="48"/>
 </a>
+
 
 ⚡ "Consistency beats talent when talent doesn't work hard."
