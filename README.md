@@ -8,15 +8,9 @@
 - Frontend Development (HTML, CSS, JavaScript,React)
 
 🚀 Working On
-- AgriVantage
-- Full Stack Development
+- Backend Java Development
 - Competitive Programming
 
-🏆 Goals
-- SIH Finalist/Winner
-- Open Source Contributions
-- Software Development Internships
-- 1000+ DSA Problems
 
 
 ## 🚀 Tech Stack
