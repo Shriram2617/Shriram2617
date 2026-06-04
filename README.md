@@ -40,8 +40,14 @@
 - Taxi Booking Simulation
 - DSA Solutions Repository
 
-📫 Connect With Me
-- LinkedIn: Add your link here
-- LeetCode: Add your link here
+## 🤝 Connect with Me
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48" height="48"/>
+</a>
 
 ⚡ "Consistency beats talent when talent doesn't work hard."
