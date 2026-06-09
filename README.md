@@ -29,11 +29,6 @@
 </p>
 
 
-📌 Featured Projects
-- AgriVantage
-- Taxi Booking Simulation
-- DSA Solutions Repository
-
 ## 🤝 Connect with Me
 
 <a href="https://www.linkedin.com/in/shriram-j-65a785321/">
