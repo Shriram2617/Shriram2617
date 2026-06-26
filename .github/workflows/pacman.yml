@@ -14,16 +14,14 @@ jobs:
 
     steps:
       - name: Generate Pac-Man
-        uses: Platane/snk/svg-only@v3
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Shriram2617
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Push Pac-Man to output branch
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Commit generated files
+        uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+          add: "."
+          message: "Update Pac-Man contribution graph"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
