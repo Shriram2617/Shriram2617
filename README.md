@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,20:03045E,40:023E8A,70:0077B6,100:0096C7&text=Shriram%20J&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,20:03045E,40:023E8A,70:0077B6,100:0096C7&text=SHRIRAM%20J&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58"/>
 </div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Open+to+Software+Engineering+Internships;Building+Java+Backend+Projects;Practicing+Data+Structures+%26+Algorithms;Learning+Modern+Full-Stack+Development;Always+Learning+%F0%9F%9A%80" />
