@@ -12,7 +12,7 @@ shriram@github:~$
 
 > whoami
 
-Name          : Shriram J
+Name          : SHRIRAM J
 College       : RMD Engineering College
 Degree        : B.Tech Information Technology
 
