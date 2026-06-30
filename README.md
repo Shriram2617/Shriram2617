@@ -48,6 +48,104 @@ Status        : Learning • Building • Growing 🚀
 | 🗄️ Database | MySQL |
 
 ---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+*"Turning ideas into practical, scalable, and user-focused applications."*
+
+</div>
+
+
+<details open>
+<summary><b>🪨 RockEx AI • AI-Based Rockfall Prediction & Early Warning System</b></summary>
+
+<br>
+
+> An AI-powered solution designed to improve safety in open-pit mines by predicting potential rockfalls using machine learning, drone imagery, DEM data, and sensor-based monitoring.
+
+| 🚀 Category | Details |
+|-------------|---------|
+| **Role** | Backend Developer |
+| **Status** | 🚧 In Development |
+| **Tech Stack** | React • TypeScript • Node.js • Supabase • AI/ML |
+| **Focus** | Mining Safety • Predictive Analytics • Smart Monitoring |
+
+### ✨ Key Features
+
+- 🤖 Machine Learning-based risk prediction
+- 🛰️ Drone image & terrain analysis
+- 📊 Interactive risk dashboard
+- 📍 Real-time monitoring
+- 🔔 Intelligent alert system
+- 📈 Historical analytics
+
+</details>
+
+---
+
+<details>
+<summary><b>🍽️ Liberate • Smart legal assistance platform</b></summary>
+
+<br>
+
+> A full-stack web application that connects food donors with people in need through a secure and user-friendly platform.
+
+| 🚀 Category | Details |
+|-------------|---------|
+| **Role** | Full Stack Developer |
+| **Status** | ✅ Completed |
+| **Tech Stack** | HTML • CSS • JavaScript • Node.js • Express • MySQL |
+| **Focus** | Social Impact • Authentication • Database Management |
+
+### ✨ Key Features
+
+- 🔐 Secure authentication
+- 👤 Separate donor & receiver modules
+- 📊 Admin dashboard
+- 🤖 AI chatbot integration
+- 📱 Responsive interface
+- 🗄️ MySQL database integration
+
+**🔗 Repository:** https://github.com/TanushreeBalakumar/FoodForward
+
+</details>
+
+---
+
+<details>
+<summary><b>🌐 Personal Portfolio Website</b></summary>
+
+<br>
+
+> A modern portfolio website showcasing my projects, technical skills, certifications, and development journey.
+
+| 🚀 Category | Details |
+|-------------|---------|
+| **Role** | Designer & Developer |
+| **Status** | ✅ Live |
+| **Tech Stack** | Next.js • TypeScript • Tailwind CSS |
+| **Focus** | Performance • Responsive Design • UI/UX |
+
+### ✨ Highlights
+
+- ⚡ Fast loading
+- 📱 Fully responsive
+- 🎨 Modern UI
+- 🌙 Clean design
+- 📬 Contact form integration
+
+**🌍 Live Demo:** https://tanushree-portfolio-khaki.vercel.app
+
+</details>
+
+---
+
+<details>
+<summary><b>📱 Swiggy UI Clone • Flutter</b></summary>
+
+<br>
 ## 💼 Experience
 
 ### 💻 Web Development Intern
