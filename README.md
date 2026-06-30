@@ -108,13 +108,13 @@ Status        : Learning • Building • Growing 🚀
 - 📱 Responsive interface
 - 🗄️ MySQL database integration
 
-**🔗 Repository:** https://github.com/TanushreeBalakumar/FoodForward
+**🔗 Repository:** 
 
 </details>
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
 ### 💻 Web Development Intern
 
