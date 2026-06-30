@@ -113,38 +113,6 @@ Status        : Learning • Building • Growing 🚀
 </details>
 
 ---
-
-<details>
-<summary><b>🌐 Personal Portfolio Website</b></summary>
-
-<br>
-
-> A modern portfolio website showcasing my projects, technical skills, certifications, and development journey.
-
-| 🚀 Category | Details |
-|-------------|---------|
-| **Role** | Designer & Developer |
-| **Status** | ✅ Live |
-| **Tech Stack** | Next.js • TypeScript • Tailwind CSS |
-| **Focus** | Performance • Responsive Design • UI/UX |
-
-### ✨ Highlights
-
-- ⚡ Fast loading
-- 📱 Fully responsive
-- 🎨 Modern UI
-- 🌙 Clean design
-- 📬 Contact form integration
-
-**🌍 Live Demo:** https://tanushree-portfolio-khaki.vercel.app
-
-</details>
-
----
-
-<details>
-<summary><b>📱 Swiggy UI Clone • Flutter</b></summary>
-
 <br>
 ## 💼 Experience
 
