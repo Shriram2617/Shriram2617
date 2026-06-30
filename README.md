@@ -113,7 +113,7 @@ Status        : Learning • Building • Growing 🚀
 </details>
 
 ---
-<br>
+
 ## 💼 Experience
 
 ### 💻 Web Development Intern
